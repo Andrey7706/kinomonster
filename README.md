@@ -1,3 +1,3 @@
 # kinomonster
-Верстка kinomonster (bootstrap)
+## Верстка kinomonster (bootstrap)
 ![Screenshot](image.png)
